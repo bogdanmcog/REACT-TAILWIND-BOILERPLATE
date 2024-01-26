@@ -24,3 +24,4 @@
       Use git pull upstream main to pull changes from the other repository to your main branch.
 
 
+![Screenshot 2024-01-26 at 16 42 32](https://github.com/bogdanmcog/REACT-TAILWIND-BOILERPLATE/assets/156916319/2cadd9aa-4267-43fa-a79a-7769a0cefffa)
